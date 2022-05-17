@@ -1,6 +1,6 @@
 # toInt
 134 of the 365 chalenge in 2022 1 day 1 challenge
-## toInt(code)
+## toInt(code) add this function to ur code
 ```java
     public static int toInt(char ch){
         return ch;
